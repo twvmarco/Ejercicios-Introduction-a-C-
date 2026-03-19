@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\bin\Debug\net10.0-windows\TexBox para cadenas.exe
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\bin\Debug\net10.0-windows\TexBox para cadenas.deps.json
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\bin\Debug\net10.0-windows\TexBox para cadenas.runtimeconfig.json
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\bin\Debug\net10.0-windows\TexBox para cadenas.dll
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\bin\Debug\net10.0-windows\TexBox para cadenas.pdb
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox_para_cadenas.Form1.resources
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.AssemblyInfo.cs
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.dll
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\refint\TexBox para cadenas.dll
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.pdb
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\TexBox para cadenas.genruntimeconfig.cache
+C:\Users\marco\Desktop\Aprender\Ejercicios Introduccion a C#\TexBox para cadenas\TexBox para cadenas\obj\Debug\net10.0-windows\ref\TexBox para cadenas.dll
